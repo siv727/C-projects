@@ -15,6 +15,7 @@ int main(){
 
     printf("TEMPERATURE CONVERTER\n\n");
     printf("Convert Temperature From\n1:\tKelvin\n2:\tCelsius\n3:\tFahrenheit\n\n");
+
 // USER INPUT TEMPERATURE CONVERT FROM X     
     while(count = 1){
         printf("\nConversion Mode: ");
@@ -30,6 +31,7 @@ int main(){
     }
     
     printf("Convert Temperature To\n4:\tKelvin\n5:\tCelsius\n6:\tFahrenheit\n\n");
+
 // USER INPUT TEMPERATURE CONVERT TO X
     while(count = 1){
         printf("\nConversion Mode: ");
